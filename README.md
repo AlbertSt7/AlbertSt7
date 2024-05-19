@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHcxNm12NmRzbGxmbmgyeWZ4eno0NTBnM3Z6eDgyNGc4eXZwbWRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHcxNm12NmRzbGxmbmgyeWZ4eno0NTBnM3Z6eDgyNGc4eXZwbWRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="500"/>
 </div>
 <div id="badges">
    <a href="https://t.me/RedBertST">
